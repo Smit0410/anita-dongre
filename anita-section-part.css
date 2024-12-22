@@ -1,0 +1,216 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#section-h2 h2{
+    padding: 60px 0 30px 0;
+    font-weight: 400;
+    color:#252525;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+
+#section1{
+    margin: auto;
+    /* border: 2px solid red; */
+    padding-bottom: 42.5px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    width: 1240px;
+    height:469px ;
+}
+
+#section .img-for-category{
+    /* border: 2px solid red; */
+    width: 100%;
+    max-width: 24%;
+    height: 100%;
+}
+
+#section .img-for-category img{
+    
+    width: 100%;
+    height:400px;
+    background-position: center center;
+    background-size: cover;
+    object-fit: cover;
+}
+
+#section .img-for-category h5{
+    font-size: large;
+    font-weight:300;
+    letter-spacing: 2px;
+    padding: 10px 0;
+    text-align: center;    
+}
+
+#section2{
+    /* border:2px solid red; */
+    /* height:100%; */
+    margin: auto;
+    height: 694px;
+    width: 100%;
+    max-width: 1240px;
+    display: flex;
+    justify-content:center;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+#section2 .img-for-category-section2{
+    /* border:2px solid red; */
+    height: 100%;
+    width: 100%;
+}
+
+#section2 .img-for-category-section2 img{
+    height: 100%;
+    width:100%;
+    object-fit: cover;
+    background-position: center center;
+    background-size: cover;
+}
+
+#shop-collaction{
+    padding:50px ;
+    text-align: center;
+}
+
+#shop-collaction button{
+    width: 100%;
+    max-width: 284px;
+    height: 40px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-weight: 700;
+    
+}
+
+#hand-craft-wolve{
+    margin: auto;
+    /* border: 2px solid red; */
+    padding-bottom: 42.5px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    width: 1240px;
+    height:469px ;
+}
+
+#hand-craft-wolve .img-for-category{
+    /* border: 2px solid red; */
+    width: 100%;
+    max-width: 24%;
+    height: 100%;
+    
+}
+
+#hand-craft-wolve .img-for-category img{
+    width: 100%;
+    height:400px;
+    background-position: center center;
+    background-size: cover;
+    object-fit: cover;
+}
+
+#hand-craft-wolve .img-for-category p{
+    width: 100%;
+    max-width: 80%;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight:lighter;
+    color: #252525;
+    padding:5px;
+}
+
+#redy-to-sheap{
+    /* border:2px solid red; */
+    overflow: hidden;
+    margin-top: 36px;
+    height: 100vh;
+    max-height: 627.75px;
+    width: 100vw;
+    max-width: 1349px;
+}
+
+#redy-to-sheap img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center center;
+}
+
+#photo-gifted{
+    /* border: 2px solid red; */
+    margin: 96px auto;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#photo-gifted #bag-photo{
+    /* border: 2px solid red; */
+    height: 100%;
+    max-height: 695px;
+    width: 100%;
+    max-width: 578px;
+    padding:0 10px;
+}
+
+#photo-gifted #bag-photo img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+
+/* #photo-gifted #gift-description{
+    border: 2px solid red;
+} */
+
+#photo-gifted #gift-description h2{
+    font-weight: 400;
+    color:#252525;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-align: center;
+}
+
+#photo-gifted #gift-description p{
+
+    width: 100%;
+    max-width: 80%;
+    overflow: hidden;
+    font-size: 18px;
+    font-weight:lighter;
+    color: #252525;
+    margin:28px 60px;
+    text-align: center;
+    padding: 0 30px;
+}
+
+#shop-now{
+    padding-top:28px ;
+    text-align: center;
+}
+
+#shop-now button{
+    width: 100%;
+    max-width: 284px;
+    height: 40px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-weight: 700;
+    
+}

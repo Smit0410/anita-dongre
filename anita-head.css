@@ -1,0 +1,125 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color:#faf8f0;
+
+}
+
+#main-head #anita-head{
+    height: 30px;
+    background-color: #1e381e;
+    color:#fff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#main-head #anita-head p{
+
+    font-size: 17px;
+    font-weight: 300;
+    background-color: #1e381e;
+    
+}
+
+#main-head #anita-head a{
+    font-size: 17px;
+    font-weight: 300;
+    text-decoration: underline;
+    color: #fff;
+    background-color: #1e381e;
+
+}
+
+#main-head #anita-sub-head{
+    /* border: 2px solid green; */
+    padding: 10px 20px 0;
+    height: 100%;
+}
+
+#main-head #anita-sub-head #india-logo-ifrem{
+    /* border:2px solid red; */
+    height: 64px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+/* #main-head #anita-sub-head #india{
+    border:2px solid red;
+} */
+
+#main-head #anita-sub-head #india p{
+    margin: 15px 0;
+    color: #1e1e1e;
+}
+
+#main-head #anita-sub-head #logo{
+    height: 44px;
+    width: 147px;
+    /* border:2px solid red; */
+    
+}
+
+#main-head #anita-sub-head #logo img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    background-position: center center;
+    background-size: cover;
+}
+
+/* #main-head #anita-sub-head #ifrem{
+    border:2px solid red;
+
+} */
+
+#main-head #anita-sub-head #ifrem i{
+    padding-left:16px ;
+    margin: 20px 0;
+}
+
+/* #anita-sub-head #menu-dislay{
+    border:2px solid red;
+    
+} */
+
+#menu-display{
+    margin:25px 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#menu-display a{
+    /* border:2px solid greenyellow; */
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: normal;
+    text-transform:uppercase;
+    text-decoration: none;
+    color: #1e1e29;
+}
+
+#img-body{
+    overflow: hidden;
+    margin-top: 10px;
+    /* border: 2px solid red; */
+    height: 100vh;
+    width: 100%;
+    padding-bottom: 42.5px;
+}
+
+#img-body img{
+    height: 650px;
+    width: 1350px;
+    background-position: center center;
+    object-fit: cover;
+    background-size: cover;
+}
